@@ -11,11 +11,11 @@ It features a digital clock display and was created to practice basic Android ap
 
 ## Technologies Used
 - Android Studio  
-- Java/Kotlin (please specify the language you used)  
+- Java
 - XML for UI layout
 
 ## Screenshots
-![Main Screen](./screenshots/main_screen.png)  
+![Main Screen](./screenshots/main_screen.jpg)  
 
 ## What I Learned
 - Basics of Android app development  
