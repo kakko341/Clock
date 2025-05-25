@@ -15,7 +15,7 @@ It features a digital clock display and was created to practice basic Android ap
 - XML for UI layout
 
 ## Screenshots
-![Main Screen](./screenshots/main_screen.jpg)  
+<img src="./screenshots/main_screen.jpg" alt="Main Screen" width="200" />
 
 ## What I Learned
 - Basics of Android app development  
